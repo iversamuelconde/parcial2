@@ -1,0 +1,44 @@
+*
+{
+margin:3px;
+padding:3px;
+}
+header
+{
+background-color: #FFFFFFF0; 
+text-align:center;
+text-decoration:underline;
+font-size:60px;
+}
+#cont1
+{
+font-size:30px;
+text-align:center;
+background-color: #FFFFFFF0; 
+color:green;
+}
+table
+{
+background-color: #FFFFFF80; 
+border-color:orange;
+border-style:inset;
+}
+img
+{
+height:150px;
+width:200px;
+}
+#derecha
+{
+font-size:150%;
+}
+#izquierda
+{
+font-size:200%;
+background-color:red;
+}
+#ubicacion
+{
+font-size:30px;
+background-color:#FFFFFF8F;
+}

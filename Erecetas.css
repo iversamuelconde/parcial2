@@ -1,0 +1,35 @@
+h1
+{
+text-align:center;
+text-decoration:underline;
+background-color:orange;
+}
+h2
+{
+color:purple;
+}
+h3
+{
+color:green;
+}
+#primero
+{
+background-color: #FFFFFF80;
+font-size:140%; 
+}
+#oferta
+{
+color:orange;
+font-size:200%;
+}
+#menu
+{
+font-size:150%;
+background-color:red;
+}
+table
+{
+background-color: #FFFFFF80;
+border-style:inset;
+border-color:orange;
+}
